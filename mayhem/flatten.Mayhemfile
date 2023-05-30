@@ -1,0 +1,5 @@
+project: meilisearch
+target: flatten
+
+cmds:
+    - cmd: /flatten

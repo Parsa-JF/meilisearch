@@ -1,0 +1,5 @@
+project: meilisearch
+target: parse
+
+cmds:
+    - cmd: /parse
